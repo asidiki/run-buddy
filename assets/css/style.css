@@ -164,6 +164,7 @@ section {
     text-align: center;
     margin: 0 auto 35px auto;
     width: 50%;
+    border-bottom: 3px solid;
   }
   
   .primary-border {
